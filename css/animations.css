@@ -46,3 +46,11 @@
 .ex-6-img:hover {
     filter: grayscale(1);
 }
+
+/* EX 7 */
+.ex-7-img {
+    transition: all 1.5s ease-in-out;
+}
+.ex-7-img:hover {
+    filter: grayscale(1);
+}
